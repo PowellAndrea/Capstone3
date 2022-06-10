@@ -1,0 +1,54 @@
+﻿         PdfDocument sourceDocument;
+         PdfDocument targetDocument;
+         //PdfDocumentInfo sourceInfo;
+         PdfDocumentInfo targetInfo;
+
+         // Need to clear any lingering data
+
+         // Locate file to change and reopen for writing
+         Record.FileName = dataGridMain.CurrentRow.Cells[0].Value.ToString();
+         Record.FilePath = dataGridMain.CurrentRow.Cells[7].Value.ToString();
+
+         sourceDocument = new PdfDocument(new PdfReader(Record.FilePath));
+
+         // need for/each cell changed - currently updating anything changed or not.  Try validating as the cell is exited as well
+         // Open source document -- beware the instanceID, it changes as soon as anything in the source is changed; DocumentID is unique to each pdf
+         //sourceDocument = new PdfDocument(new PdfReader(Record.FilePath));
+
+         // currently creating duplicate documents - should I just update the current document (which does change the instance ID - probably need to look at version ID at that point too.
+         // Try a single myDocument(Reader = Source; Writer = Target)
+
+         targetDocument = new PdfDocument(new PdfWriter("./Test" + Record.FileName + ".pdf"));
+         sourceDocument.CopyPagesTo(1, sourceDocument.GetNumberOfPages(), targetDocument);
+         targetInfo = sourceDocument.GetDocumentInfo();
+
+         /*
+          * 
+          * The below line works - will use this when updating to use XMP object rather than GetInfo[array].
+          *    byte[] targetByte = sourceDocument.GetXmpMetadata();
+          *    
+          */
+
+
+         // Crashing when field is null - need to create if it does not exist
+         Record.Title = dataGridMain.CurrentRow.Cells[1].Value.ToString();
+         Record.Published = dataGridMain.CurrentRow.Cells[2].Value.ToString();
+         Record.Author = dataGridMain.CurrentRow.Cells[5].Value.ToString();
+         Record.RecordSeries = dataGridMain.CurrentRow.Cells[6].Value.ToString();
+
+         targetDocument.GetDocumentInfo().SetTitle(Record.Title + " standard");
+         targetInfo.SetAuthor(Record.Author + "standard");
+
+         // Dublin Core namespace
+         targetDocument.GetDocumentInfo().SetAuthor(Record.Author);  // dc:creator
+         targetDocument.GetDocumentInfo().SetTitle(Record.Title);    //dc:title
+
+         //  Adobe pdfx namespace
+
+         targetDocument.GetDocumentInfo().SetMoreInfo("RecordSeries", Record.RecordSeries);
+         targetDocument.GetDocumentInfo().SetMoreInfo("Published", Record.Published);
+         //targetDocument.GetDocumentInfo().SetMoreInfo("Description", Record.Description);
+
+         targetDocument.Close();
+         sourceDocument.Close();
+         dataGridMain.Refresh();
