@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows10.0.22000.0</TargetFramework>
+    <RootNamespace>Metadata_Manager</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <StartupObject>Metadata_Manager.Program</StartupObject>
+    <SupportedOSPlatformVersion>10.0.17763.0</SupportedOSPlatformVersion>
+    <UseWPF>True</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Resources\640px-FilesAndFolders.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DocumentFormat.OpenXml" Version="2.16.0" />
+    <PackageReference Include="EPPlus" Version="6.0.4" />
+    <PackageReference Include="itext7" Version="7.2.2" />
+    <PackageReference Include="System.Collections" Version="4.3.0" />
+    <PackageReference Include="System.IO.Packaging" Version="5.0.0" />
+    <PackageReference Include="Uno.Microsoft.Toolkit.Uwp.UI.Controls.DataGrid" Version="7.1.11" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Settings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Properties\Settings.settings">
+      <Generator>PublicSettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>

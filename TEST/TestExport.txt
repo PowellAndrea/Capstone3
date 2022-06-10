@@ -1,0 +1,5 @@
+File Name, Title, Author, Published, Record Series, File Path,
+example Puget Sound Dispatch 14 September 1878.pdf,My Fish Report,Andrea Powell,2022,GS Andrea,E:\_SourceCode\Metadata Manager\TEST\example Puget Sound Dispatch 14 September 1878.pdf,
+Reminiscences of an Old Timer.pdf,September 28- 2002,Andrea Powell, ,Andrea Stuff,E:\_SourceCode\Metadata Manager\TEST\Reminiscences of an Old Timer.pdf,
+Washington Standard 14 September 1878 Washington Digital Newspapers.pdf, , , , ,E:\_SourceCode\Metadata Manager\TEST\Washington Standard 14 September 1878 Washington Digital Newspapers.pdf,
+White-Parker Family Bible.pdf,The White Family Bible,Andrea Powell, ,visible,E:\_SourceCode\Metadata Manager\TEST\White-Parker Family Bible.pdf,
