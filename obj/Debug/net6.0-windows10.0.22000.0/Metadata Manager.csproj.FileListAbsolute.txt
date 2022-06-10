@@ -1,0 +1,67 @@
+E:\_SourceCode\Metadata Manager\obj\Debug\net6.0-windows10.0.22000.0\Metadata Manager.csproj.AssemblyReference.cache
+E:\_SourceCode\Metadata Manager\obj\Debug\net6.0-windows10.0.22000.0\Metadata_Manager.Forms.Landing.resources
+E:\_SourceCode\Metadata Manager\obj\Debug\net6.0-windows10.0.22000.0\Metadata_Manager.Properties.Resources.resources
+E:\_SourceCode\Metadata Manager\obj\Debug\net6.0-windows10.0.22000.0\Metadata Manager.csproj.GenerateResource.cache
+E:\_SourceCode\Metadata Manager\obj\Debug\net6.0-windows10.0.22000.0\Metadata Manager.GeneratedMSBuildEditorConfig.editorconfig
+E:\_SourceCode\Metadata Manager\obj\Debug\net6.0-windows10.0.22000.0\Metadata Manager.AssemblyInfoInputs.cache
+E:\_SourceCode\Metadata Manager\obj\Debug\net6.0-windows10.0.22000.0\Metadata Manager.AssemblyInfo.cs
+E:\_SourceCode\Metadata Manager\obj\Debug\net6.0-windows10.0.22000.0\Metadata Manager.csproj.CoreCompileInputs.cache
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Metadata Manager.exe
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Metadata Manager.deps.json
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Metadata Manager.runtimeconfig.json
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Metadata Manager.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Metadata Manager.pdb
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\DocumentFormat.OpenXml.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\EPPlus.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\EPPlus.Interfaces.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\EPPlus.System.Drawing.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\itext.barcodes.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\itext.forms.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\itext.io.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\itext.kernel.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\itext.layout.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\itext.pdfa.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\itext.sign.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\itext.styledxmlparser.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\itext.svg.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\itext.commons.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Configuration.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Configuration.Json.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.DependencyInjection.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.DependencyModel.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Logging.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Options.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Primitives.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Newtonsoft.Json.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\BouncyCastle.Crypto.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Uno.Diagnostics.Eventing.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Uno.Foundation.Logging.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Uno.Foundation.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Uno.UI.Composition.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Uno.UI.Dispatching.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Uno.UI.FluentTheme.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Uno.UI.FluentTheme.v1.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Uno.UI.FluentTheme.v2.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Uno.UI.Toolkit.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Uno.UI.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Uno.Xaml.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Uno.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Windows.SDK.NET.dll
+E:\_SourceCode\Metadata Manager\bin\Debug\net6.0-windows10.0.22000.0\WinRT.Runtime.dll
+E:\_SourceCode\Metadata Manager\obj\Debug\net6.0-windows10.0.22000.0\Metadata Manager.csproj.CopyComplete
+E:\_SourceCode\Metadata Manager\obj\Debug\net6.0-windows10.0.22000.0\Metadata Manager.dll
+E:\_SourceCode\Metadata Manager\obj\Debug\net6.0-windows10.0.22000.0\refint\Metadata Manager.dll
+E:\_SourceCode\Metadata Manager\obj\Debug\net6.0-windows10.0.22000.0\Metadata Manager.pdb
+E:\_SourceCode\Metadata Manager\obj\Debug\net6.0-windows10.0.22000.0\Metadata Manager.genruntimeconfig.cache
+E:\_SourceCode\Metadata Manager\obj\Debug\net6.0-windows10.0.22000.0\ref\Metadata Manager.dll
